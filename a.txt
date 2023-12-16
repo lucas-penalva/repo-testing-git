@@ -1,1 +1,3 @@
 a nova funcionalidade foi implantada
+
+funcionalidade 2 implantada
